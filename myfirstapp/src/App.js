@@ -11,7 +11,6 @@ const App = () => {
       <Form />
       <br></br><hr></hr>
       <Todo />
-      <br></br><hr></hr>
     </div>
   );
 }
